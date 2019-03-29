@@ -1,0 +1,9 @@
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\SistemaCantina\SistemaCantina\bin\Debug\SistemaCantina.exe.config
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\SistemaCantina\SistemaCantina\bin\Debug\SistemaCantina.exe
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\SistemaCantina\SistemaCantina\bin\Debug\SistemaCantina.pdb
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\SistemaCantina\SistemaCantina\obj\Debug\SistemaCantina.csprojResolveAssemblyReference.cache
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\SistemaCantina\SistemaCantina\obj\Debug\SistemaCantina.Form1.resources
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\SistemaCantina\SistemaCantina\obj\Debug\SistemaCantina.Properties.Resources.resources
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\SistemaCantina\SistemaCantina\obj\Debug\SistemaCantina.csproj.GenerateResource.Cache
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\SistemaCantina\SistemaCantina\obj\Debug\SistemaCantina.exe
+C:\Users\JONAS\Desktop\Curso Fundação Bradesco C# Básico\SistemaCantina\SistemaCantina\obj\Debug\SistemaCantina.pdb
